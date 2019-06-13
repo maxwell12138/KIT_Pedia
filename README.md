@@ -2,9 +2,8 @@
 
 KIT小百科，valuable information for students who study in KIT。
 ###
-时间：2019年06月12日
+时间：2019年06月12日<br>
 作者：叶河图
-
 ##参与者
 暂无
 ## 框架
