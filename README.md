@@ -1,11 +1,13 @@
 # KIT_Pedia
 
 KIT小百科，valuable information for students who study in KIT。
+
 ###
 时间：2019年06月12日<br>
 管理员：叶河图<br>
-###参与者（排名不分先后）
-叶河图
+参与者（排名不分先后）：<br>
+叶河图<br>
+
 ##参与方式
 *每位参与者根据框架内的内容，记录自己对某话题的认识与了解。<br>
 *内容不仅包括客观描述，更提倡记录主观感受。比如某门课特别难，某个地方特别好玩，英国签证要多久才能办下来，苏黎世的披萨特别贵，等等等等。<br>
@@ -16,8 +18,6 @@ KIT小百科，valuable information for students who study in KIT。
 *每一个完成的节点，将在构架图中被点亮。<br>
 *所有内容将被汇总，以PDF形式，供学生免费下载阅读。本项目承诺不用于商业用途，也禁止他人或机构用于商业用途。本项目保留追究法律责任的权利。<br>
 
-##参与者
-暂无
 ## 框架
 ![Architecture](https://github.com/maxwell12138/KIT_Pedia/blob/master/architecture.png)
 
